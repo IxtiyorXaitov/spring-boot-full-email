@@ -9,5 +9,4 @@ public class SpringBootFullEmailApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringBootFullEmailApplication.class, args);
     }
-
 }
